@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Radio Bulbul</string>
+    <string name="title_contact">CONTACT</string>
+    <string name="title_play">RADIO</string>
+    <string name="title_about">ABOUT</string>
+    <string name="radio_unavail">Sorry Currently the channel is offline. Our Radio is Live During : \n 07 : 00 AM - 12 : 00 PM \n 02 : 00 PM - 05 : 00 PM \n 05 : 20 PM - 09 : 20 PM \n 09 : 30 PM - 11 : 30 PM</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">On your Fingertips..</string>
+    <string name="slide_1_desc">Congratulations Now you can access your favourite Radio Bulbul anywhere anytime.</string>
+
+    <string name="slide_2_title">Share Your Wishes</string>
+    <string name="slide_2_desc">Just text us your messages and we will stream them!!</string>
+
+    <string name="slide_3_title">Welcome</string>
+    <string name="slide_3_desc">Lets begin!</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+
+
+    <string name="about_text">Radio Bulbul is community radio station of Odisha, India under Ministry of Information and Broadcasting, Govt. of India. \n\nRadio Bulbul, from past 2 years (2017) it became an integral part of every family who love to listen! The main reason behind establishment of this community radio station to uplift the society by making people educated, aware and self dependent especially women.\n
+
+\nThe main focus of the station will be to make people of he area more aware about Agriculture and commerce. \n\nAlmost 49 percent of the population belongs to minorities .\n\nThe community radio will also try to inform people about the plans and benefits that the government announces for the minorities in the country. As the area is very prone to cyclones the station also plans to give information regarding disaster management and awareness programmes.
+
+\n\nVision: To have a just, healthy and self reliant society where, equal opportunities are made available to the disadvantaged mainly the women.\n
+
+\nMission: Holistic Development of the Society and to reduce poverty among rural masses in which women will play a proactive role and to ensure basic infrastructural facilities and to equip them with knowledge, information and skills to cope up their problems by themselves.\n
+
+\nGenesis: Seeing the poverty and illiteracy in the society and the desire to improve their condition of people gave rise to a dream to improve their lot. Realizing this dream became our inspiration.\n
+
+\nFocus: We focus on overall development of society especially Village development, Flood relief, Combating superstitions, Social Awareness, Education, Women empowerment and security, Right to equality, National unity, Communal harmony and integration, eliminate hunger and malnutrition.\n
+
+\nSome of the shows of Radio Bulbul’s which involve community are-
+
+
+Kar Bhala tou ho Bhala
+
+\n\nOther Shows are-
+Poshan Abhiyan (Radio Bulbul)
+Matric Exam awareness</string>
+
+    <string name="share_msg">Lets play Radio bulbul on the Go , Download the app now from Play Store @ http://bit.ly/RadioBuLbuL</string>
+</resources>

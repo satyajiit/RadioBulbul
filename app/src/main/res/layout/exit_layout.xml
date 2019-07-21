@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+
+
+    <TextView
+
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/cav"
+        android:textSize="32sp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textColor="#fff"
+        android:background="@drawable/drawable_purple_gradient"
+        android:text="EXIT"
+        />
+
+    <TextView
+        android:layout_marginTop="5dp"
+        android:layout_gravity="center"
+        android:paddingStart="10dp"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/cav"
+        android:textSize="19sp"
+        android:text="Are you sure to exit? Come back Soon."
+        />
+
+
+
+
+
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:padding="10dp"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+
+        <Button
+            android:id="@+id/yes"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:clickable="true"
+            android:layout_height="wrap_content"
+            android:textColor="#fff"
+            android:layout_margin="10dp"
+            android:textSize="18sp"
+            android:fontFamily="@font/cav"
+            android:background="@drawable/drawable_green_gradient"
+            android:text="YES" />
+
+
+        <Button
+            android:id="@+id/no"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:clickable="true"
+            android:focusable="true"
+            android:layout_margin="10dp"
+            android:layout_height="wrap_content"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:fontFamily="@font/cav"
+            android:background="@drawable/drawable_purple_gradient"
+            android:text="NO" />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

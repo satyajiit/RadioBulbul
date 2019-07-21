@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_programs"
+        android:icon="@drawable/ic_event"
+        android:title="@string/title_contact" />
+
+    <item
+        android:id="@+id/navigation_play"
+        android:icon="@drawable/ic_fm_radio"
+        android:title="@string/title_play" />
+
+    <item
+        android:id="@+id/navigation_about"
+        android:icon="@drawable/contact"
+        android:title="@string/title_about" />
+
+</menu>

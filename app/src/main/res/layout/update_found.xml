@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/cav"
+            android:textSize="32sp"
+            android:gravity="center"
+            android:textColor="#fff"
+            android:background="@drawable/drawable_green_gradient"
+            android:text="UPDATE FOUND"
+            />
+
+        <TextView
+            android:layout_marginTop="5dp"
+            android:layout_gravity="center"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/cav"
+            android:textSize="17sp"
+            android:layout_marginBottom="10dp"
+            android:text="WHATS NEW?"
+            />
+<ScrollView
+
+    android:layout_width="wrap_content"
+    android:layout_height="50dp">
+        <TextView
+            android:id="@+id/content"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/cav"
+            android:textSize="14sp"
+            android:textColor="#7B1FA2"
+            android:text="New Update Available , \nPlease update the App\n now to enjoy more \nfeatures."
+            />
+
+</ScrollView>
+
+
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:gravity="center"
+            android:layout_height="wrap_content">
+
+
+            <Button
+                android:id="@+id/ok"
+                android:layout_width="match_parent"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:clickable="true"
+                android:focusable="true"
+                android:layout_height="wrap_content"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:fontFamily="@font/cav"
+                android:background="@drawable/drawable_green_gradient"
+                android:text="Update Now" />
+
+        </LinearLayout>
+
+
+
+
+
+
+
+
+    </LinearLayout>
